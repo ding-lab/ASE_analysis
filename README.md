@@ -15,6 +15,8 @@ This is a repo with the scripts for ASE analysis.
 ```/diskmnt/Datasets/Reference/GRCh38.d1.vd1/GRCh38.d1.vd1.fa```
 
 
+# Analysis scripts:
+
 * The order follows the steps that were done for analysis in the paper.
 
 1. ```From_local/1.Make_site_list/Make_site_list.20230702.R``` -- make list of sites to run bam-readcount on cluster.
